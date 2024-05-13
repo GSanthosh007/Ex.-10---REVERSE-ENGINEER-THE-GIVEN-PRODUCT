@@ -1,6 +1,6 @@
-# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 29.4.24
+### DATE: 28/04/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,11 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Priyangarajapandiyan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144872535/2ebff4c7-8f30-46e2-9685-f5bdabbcf14e)
+![Screenshot 2024-04-27 135450](https://github.com/iamyadhav/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147139713/b846a50c-d813-4935-b439-68100bcd1bab)
 
 ### Output:
-![image](https://github.com/Priyangarajapandiyan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144872535/149dbd29-43bf-4df3-8864-fa9fe3c3d8cd)
 
+![Screenshot 2024-04-27 135154](https://github.com/iamyadhav/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147139713/250d077e-cd16-4057-9303-9368b035569c)
 
 ### Name: SANTHOSH G
 ### Register Number:212223240152
